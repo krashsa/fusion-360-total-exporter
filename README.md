@@ -38,4 +38,4 @@ Thx to this thread on Autodesk forum: https://forums.autodesk.com/t5/fusion-360-
 Thanks to this hub https://github.com/kantoku-code/Fusion360_Small_Tools_for_Developers/blob/master/TextCommands/TextCommands_txt_Ver2_0_8176.txt#L421
 
 ## +added support of Cyrillic symols in path names
-Thanks to me :) now probably it would suppo
+Thanks to me :) now probably it would support any language.
