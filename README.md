@@ -28,10 +28,10 @@ That wasn't a question. But yeah... me too some days.
 # Update at 25.03.2022
 I have edited (and somwhere rewrited) the script.
 New features:
-## +added progress file (to continue from the last file if it crashes). so you can continue from the last file if Fusion 360 crashes.
+### +added progress file (to continue from the last file if it crashes). so you can continue from the last file if Fusion 360 crashes.
 
+### +added export f2d (flat drawings) in PDF (https://forums.autodesk.com/t5/fusion-360-api-and-scripts/december-2020-product-update-api-quot-export-a-drawing-as-a-pdf/td-p/10050094)
 
-## +added export f2d (flat drawings) in PDF (https://forums.autodesk.com/t5/fusion-360-api-and-scripts/december-2020-product-update-api-quot-export-a-drawing-as-a-pdf/td-p/10050094)
-##added export in f3z (assemblies) thanks to this hub https://github.com/kantoku-code/Fusion360_Small_Tools_for_Developers/blob/master/TextCommands/TextCommands_txt_Ver2_0_8176.txt#L421
+### +added export in f3z (assemblies) thanks to this hub https://github.com/kantoku-code/Fusion360_Small_Tools_for_Developers/blob/master/TextCommands/TextCommands_txt_Ver2_0_8176.txt#L421
 
-## +added support of Cyrillic symols in path names
+### +added support of Cyrillic symols in path names
